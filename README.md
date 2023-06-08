@@ -8,7 +8,7 @@
    - Run each section sequentially from top to bottom.
    - When prompted to save the model, grant the necessary permissions.
 6. After completing the first phase, create a new notebook for the next phase.
-7. Download the dataset from the following link on Kaggle: [Sign Language Digits Dataset | Kaggle](https://www.kaggle.com/your/dataset)
+7. Download the dataset from the following link on Kaggle: [Sign Language Digits Dataset | Kaggle](https://www.kaggle.com/datasets/javaidahmadwani/sign-language-digits-dataset)
 8. Upload the downloaded dataset folder to your Google Drive so that the images can be accessed.
 9. Go back to the Github repository and open the file [handsign_digit_model.ipynb](https://github.com/MajorProject221/Handsign_digit_model/handsign_digit_model.ipynb).
 10. Similar to the previous notebook, run each section of code in separate code blocks sequentially.
