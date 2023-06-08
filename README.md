@@ -2,7 +2,7 @@
 
 1. Open Google Colab and create a new notebook to run the code. (You need to have a Google account for doing so.)
 2. Go to the following Github repository: [Handsign Model Code](https://github.com/MajorProject221/Handsign_digit_model/)
-3. In the repository, locate the two files with the extension `.ipynb`.
+3. In the repository, locate the two files with the extension `.txt`.
 4. In the first notebook, paste each section from the file [handwritten_digit_recognition.txt](https://github.com/MajorProject221/Handsign_digit_model/blob/main/handwritten_digit_model.txt) into separate code blocks in the notebook you created.
 5. Each section in the notebook has an execution button.
    - Run each section sequentially from top to bottom.
